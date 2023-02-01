@@ -30,3 +30,4 @@ $ python3 main.py
 ```
 All information about accounts (date of creation, username, email, password, cookies, user agent) are stored in accounts.db
 
+You can add new names to 'utils\Names.txt' and new user agents to 'utils\user_agent.txt' for registration.

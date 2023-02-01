@@ -1,6 +1,6 @@
 >### The script for educational purpose only, not for mass IG accounts creating 
 
-Don't use free proxy servers or VPN because a high chance to get ban
+<strong>Don't use free proxy servers or VPN because a high chance to get ban</strong>
 
 ## ⬇️ Installation
 ```ruby

@@ -10,11 +10,12 @@ $ python3 -m pip install -r requirements.txt
 ```
 ## Configuration
 Download [Chromedriver](https://chromedriver.chromium.org/downloads) for [Chrome](https://www.google.com/intl/en/chrome/)
+
 Open config.py
 | Config               | Usage                                                              |
 | :------------------- | :----------------------------------------------------------------- |
 | path_to_chromedriver | Path to Chromedriver                                               |
-| proxy_server         | Settings of proxy server [ip address, port, username, password]    |
+| proxy_server         | Settings for proxy server [ip address, port, username, password]   |
 
 If you will use proxy server change setting 'proxy_server' in config.py and change main.py
 ```python
